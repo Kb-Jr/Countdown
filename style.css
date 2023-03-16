@@ -95,12 +95,12 @@ html {
     color: white;
     cursor: pointer;
     outline: none;
-    transition: transform 0.7s ease;
+    /* transition: transform 0.7s ease; */
   }
 
   button:hover {
-    /* filter: brightness(110%); */
-    transform: scale(105%);
+    filter: brightness(115%);
+    /* transform: scale(105%); */
   }
   
   
