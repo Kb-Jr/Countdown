@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Lobster&family=Montserrat&display=swap');
 
 
 html {
@@ -11,6 +12,7 @@ html {
     display: flex;
     align-items: center;
     background-color: #333;
+    font-family: montserrat, sans-serif;
   
   }
   
@@ -80,6 +82,7 @@ html {
     border-radius: 20px;
     background: #fff;
     outline: none;
+    font-family: montserrat, sans-serif;
   
   }
   
@@ -146,7 +149,7 @@ html {
     }
     50% {
         color: rgba(167, 247, 63);
-        transform: scale(1.5);
+        transform: scale(1.2);
     }
     75% {
         color: rgba(25, 199, 199);
