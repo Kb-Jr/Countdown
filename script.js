@@ -13,6 +13,9 @@ const completeBtn = document.getElementById('complete-button');
 
 const today = new Date().toISOString().split('T')[0];
 
+const input = document.getElementById('title');
+const datePicker  = document.getElementById('date-picker');
+
 //Ensure older dates will be disabled
 dateEl.setAttribute('min', today);
 
@@ -89,6 +92,9 @@ function reset(){
     countdownEl.hidden = true;
     inputContainer.hidden = false;
     completeEl.hidden = true;
+
+    input.textContent = '';
+    datePicker.textContent = '';
 
     clearInterval(countdownActive);
     countdownTitle = '';
