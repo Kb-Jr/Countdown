@@ -13,6 +13,7 @@ const completeBtn = document.getElementById('complete-button');
 
 const today = new Date().toISOString().split('T')[0];
 
+//Ensure older dates will be disabled
 dateEl.setAttribute('min', today);
 
 
@@ -27,8 +28,9 @@ const minute = second * 60;
 const hour = minute * 60;
 const day = hour * 24;
 
-
+// Function to manipulate DOM
 function updateDOM(){
+
     countdownActive = setInterval(() => {
         const now = new Date().getTime();
         const distance = countdownValue - now;
@@ -82,6 +84,7 @@ function updateCountdown(e){
 
 };
 
+// function to reset countdown
 function reset(){
     countdownEl.hidden = true;
     inputContainer.hidden = false;

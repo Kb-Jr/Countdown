@@ -16,29 +16,7 @@ html {
   
   }
   
-  /* Video Background */
-  /* .video-background {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-  
-  }
-  
-  video {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
-  
-  .video-overlay {
-    position: fixed;
-    left: 0;
-    top: 0;
-  
-  } */
-  
-  /* Container */
+
   .container {
     min-width: 580px;
     min-height: 304px;
@@ -149,7 +127,7 @@ html {
     }
     50% {
         color: rgba(167, 247, 63);
-        transform: scale(1.2);
+        /* transform: scale(1.2); */
     }
     75% {
         color: rgba(25, 199, 199);
@@ -163,14 +141,6 @@ html {
   
   /* Media Query: Large Smartphone (Vertical) */
   @media screen and (max-width: 600px) {
-    /* .video-background {
-  
-    }
-    
-    video {
-  
-      margin-top: -1px;
-    } */
   
     .container {
   
