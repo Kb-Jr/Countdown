@@ -2,9 +2,8 @@
 A customized countdown
 
 
-<!-- # About
-A single page music player built using HTML CSS and Javascript. Features include Play, pause, next, previous, shuffle, un-shuffle, Volume up, volume down, Progress bar and progress bar seeking.
-
+# About
+Create customozable countdowns with ease. 
 ## Table of contents
 
   - [Screenshot](#screenshot)
@@ -19,15 +18,14 @@ A single page music player built using HTML CSS and Javascript. Features include
 
 ### Screenshot
 
-![Playing screenshot](./screenshots/Playing.png)
-![Paused screenshot](./screenshots/Paused.png)
-![Shuffled screenshot](./screenshots/Shuffled.png)
-![Mobile screenshot](./screenshots/Mobile.png)
+![Input view screenshot](./screenshots/input_view.png)
+![Countdown view screenshot](./screenshots/countdown_view.png)
+![Complete view screenshot](./screenshots/complete_view.png)
 
 
 ### Links
 
-- Live Site URL: [Click here](https://kb-jr.github.io/Music-player/)
+- Live Site URL: [Click here](https://kb-jr.github.io/""/)
 
 ## My process
 

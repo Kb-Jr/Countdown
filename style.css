@@ -72,16 +72,16 @@ html {
     margin-top: 15px;
     border: none;
     text-transform: uppercase;
-    background: #006959;
+    background: #EA5455;
     color: white;
     cursor: pointer;
     outline: none;
-    /* transition: transform 0.7s ease; */
+   
   }
 
   button:hover {
     filter: brightness(115%);
-    /* transform: scale(105%); */
+ 
   }
   
   
@@ -179,5 +179,6 @@ html {
     li span {
       font-size: 40px;
     }
+
   }
   
