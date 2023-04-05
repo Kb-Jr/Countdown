@@ -10,11 +10,7 @@ Create customozable countdowns with ease.
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 
 ### Screenshot
 
@@ -43,39 +39,12 @@ Create customozable countdowns with ease.
 ##### Reset Countdown
 ##### Create New Countdown 
 
-###### 
-
-
-
-## What i learned
-- Using Ternary Operators
-- Using "This" keyword
-- Working with objects and array methods
-- Loading data through DOM Manipulation
-
 
 ### Built with
 
 - HTML5 
 - CSS custom properties
-- Flexbox
 - Javascript
-
-
-### Useful resources
-
-- [Using Ternary (conditional) Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operators).
-
-- [Audio methods, events and Properties](https://www.w3schools.com/tags/ref_av_dom.asp) 
-
-- [Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) 
-
-- [Images](https://unsplash.com) 
-
-
-- [Icons](https://fontawesome.com)
-
-- [Loader](https://loading.io/) - Download custimisable loading animations 
 
 
 ## Author
@@ -84,7 +53,5 @@ Create customozable countdowns with ease.
 - Twitter - [@Joker__XL](https://www.twitter.com/Joker__XL)
 
 
-## Acknowledgments 
-- twitter.com/mynameisjacinto
 
 
