@@ -3,7 +3,7 @@ A customized countdown
 
 
 # About
-Create customozable countdowns with ease. 
+Create customizable countdowns with ease. 
 ## Table of contents
 
   - [Screenshot](#screenshot)
